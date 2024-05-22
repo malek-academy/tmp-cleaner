@@ -1,2 +1,2 @@
-sudo rm -rf /tmp/*
+#!/bin/bash
 
