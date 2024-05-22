@@ -1,2 +1,2 @@
-rm -rf /tmp/*
+sudo rm -rf /tmp/*
 
